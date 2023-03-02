@@ -56,4 +56,8 @@ Team:
     Privacy Officer
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Data Collection and Processing Policies](documentation/templates/theme/initiatives/epics/Data%20Collection%20and%20Processing%20Policies.md)
+2. [Cookie Policies and Consent](documentation/templates/theme/initiatives/epics/Cookie%20Policies%20and%20Consent.md)
+3. [Privacy Policy](documentation/templates/theme/initiatives/epics/Privacy%20Policy.md)
+4. [Data Subject Rights](documentation/templates/theme/initiatives/epics/Data%20Subject%20Rights.md)
+5. [Data Breach Procedures](documentation/templates/theme/initiatives/epics/Data%20Breach%20Procedures.md)
