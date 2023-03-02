@@ -25,4 +25,4 @@ Business Value: This epic will provide a clear process for handling data breache
 Priority:  High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/Data%20Subject%20Story1.md)
