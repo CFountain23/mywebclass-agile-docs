@@ -25,4 +25,4 @@ Business Value: By updating the website's privacy policy to comply with GDPR law
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/Privacy%20Policy%20Story1.md)
