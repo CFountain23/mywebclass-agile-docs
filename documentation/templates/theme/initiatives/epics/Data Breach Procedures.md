@@ -26,4 +26,4 @@ Business Value: This epic delivers significant business value by ensuring that w
 Priority: High priority.
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/Data%20Breach%20Story1.md)
