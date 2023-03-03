@@ -63,4 +63,6 @@ Team:
     Operations Team: responsible for managing and monitoring the infrastructure and deployment of software applications.
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](documentation/templates/theme/initiatives/epics/Implement%20Infrastructure%20as%20Code.md)
+   2. [Epic 2](documentation/templates/theme/initiatives/epics/Continuous%20Integration,Continuous%20Deployment%20(CI,CD).md)
+   3. [Epic 3](documentation/templates/theme/initiatives/epics/Centralized%20Logging%20and%20Monitoring.md)

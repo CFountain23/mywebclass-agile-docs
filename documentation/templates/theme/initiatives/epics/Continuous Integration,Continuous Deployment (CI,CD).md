@@ -23,4 +23,4 @@ Business Value: Improved speed, reliability and quality of software delivery
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/CI,CD%20story.md)
