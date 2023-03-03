@@ -6,9 +6,9 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Comply with GDPR Law](./documentation/templates/theme/initiatives/Comply%20with%20GDPR.md)
+* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](./documentation/templates/theme/initiatives/devops.md)
+* [Create an initial web page template](./documentation/templates/theme/initiatives/basic_webpage_template.md)
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
@@ -16,3 +16,7 @@ us up for long-term success.
 
 ## Test plan
 How will this be tested?
+
+Testing the website's functionality to ensure that it meets GDPR requirements, such as consent management and data privacy policies.
+Testing the efficiency and collaboration of the development processes, such as testing the automation and integration of code testing, deployment, and monitoring.
+Testing the functionality and user experience of the webpage template across different devices and browsers.
