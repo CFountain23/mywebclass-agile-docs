@@ -64,4 +64,6 @@ Team:
     SEO Specialist.
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](documentation/templates/theme/initiatives/epics/Develop%20a%20Basic%20Layout%20and%20Navigation.md)
+2. [Epic 2](documentation/templates/theme/initiatives/epics/Create%20Content%20for%20the%20Webpage.md)
+3. [Epic 3](documentation/templates/theme/initiatives/epics/Develop%20Responsive%20Design%20for%20Multiple%20Devices.md)
